@@ -1,0 +1,102 @@
+ARTICLE VOLUME AND FINANCING ANALYSIS REPORT
+============================================================
+
+Analysis Date: 2025-12-16 23:13:54
+Total Industries: 5
+Total Periods: 63
+Date Range: 2024-01-15 to 2025-10-06
+
+ARTICLE SOURCES DEFINITION:
+----------------------------------------
+1. Financial Times (article_count_ft): Articles from Financial Times
+2. De Tijd (article_count_tijd): Articles from De Tijd newspaper
+3. Company Articles (n_artices_comp): Articles about the specific company
+4. Canadian Articles (n_comments_ca): Articles/comments from Canadian sources
+
+INDUSTRY STATISTICS:
+------------------------------
+
+Copper:
+  Total Articles: 2,956.0
+  Average per Period: 46.9
+  Financing Events: 2
+  % Periods with Financing: 3.2%
+  Source Breakdown:
+    - Financial Times: 77.0 (2.6%)
+    - De Tijd: 1,026.0 (34.7%)
+    - Company Articles: 134.0 (4.5%)
+    - Canadian Articles: 1,719.0 (58.2%)
+
+Gold:
+  Total Articles: 13,366.0
+  Average per Period: 212.2
+  Financing Events: 12
+  % Periods with Financing: 19.0%
+  Source Breakdown:
+    - Financial Times: 749.0 (5.6%)
+    - De Tijd: 2,869.0 (21.5%)
+    - Company Articles: 293.0 (2.2%)
+    - Canadian Articles: 9,455.0 (70.7%)
+
+Other Industrial Metals & Mining:
+  Total Articles: 11,225.0
+  Average per Period: 178.2
+  Financing Events: 6
+  % Periods with Financing: 9.5%
+  Source Breakdown:
+    - Financial Times: 91.0 (0.8%)
+    - De Tijd: 259.0 (2.3%)
+    - Company Articles: 228.0 (2.0%)
+    - Canadian Articles: 10,647.0 (94.9%)
+
+Other Precious Metals & Mining:
+  Total Articles: 10,613.0
+  Average per Period: 168.5
+  Financing Events: 8
+  % Periods with Financing: 12.7%
+  Source Breakdown:
+    - Financial Times: 51.0 (0.5%)
+    - De Tijd: 197.0 (1.9%)
+    - Company Articles: 121.0 (1.1%)
+    - Canadian Articles: 10,244.0 (96.5%)
+
+Silver:
+  Total Articles: 3,880.0
+  Average per Period: 61.6
+  Financing Events: 3
+  % Periods with Financing: 4.8%
+  Source Breakdown:
+    - Financial Times: 54.0 (1.4%)
+    - De Tijd: 122.0 (3.1%)
+    - Company Articles: 147.0 (3.8%)
+    - Canadian Articles: 3,557.0 (91.7%)
+
+
+TOP 5 INDUSTRIES BY ARTICLE VOLUME:
+----------------------------------------
+Gold: 13,366.0 articles
+Other Industrial Metals & Mining: 11,225.0 articles
+Other Precious Metals & Mining: 10,613.0 articles
+Silver: 3,880.0 articles
+Copper: 2,956.0 articles
+
+
+FILES CREATED:
+--------------------
+Copper_main.png
+Copper_sources.png
+Copper_trends.png
+Gold_main.png
+Gold_sources.png
+Gold_trends.png
+Other_Industrial_Metals_&_Mining_main.png
+Other_Industrial_Metals_&_Mining_sources.png
+Other_Industrial_Metals_&_Mining_trends.png
+Other_Precious_Metals_&_Mining_main.png
+Other_Precious_Metals_&_Mining_sources.png
+Other_Precious_Metals_&_Mining_trends.png
+Silver_main.png
+Silver_sources.png
+Silver_trends.png
+article_volume_heatmap.png
+industry_comparison.png

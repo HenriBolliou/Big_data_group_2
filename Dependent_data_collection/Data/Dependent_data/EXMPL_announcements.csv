@@ -1,0 +1,4 @@
+stock_name,ticker,date-time,type
+Example Company,EXMPL,2025-11-15,financing_announcement
+Example Company,EXMPL,2026-02-20,exploration_results
+Example Company,EXMPL,2026-05-10,property_acquisition
